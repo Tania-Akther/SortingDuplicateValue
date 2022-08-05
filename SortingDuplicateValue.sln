@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingDuplicateValue", "SortingDuplicateValue\SortingDuplicateValue.csproj", "{E726F548-F1E4-41DB-97D7-85A5D307A51E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E726F548-F1E4-41DB-97D7-85A5D307A51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E726F548-F1E4-41DB-97D7-85A5D307A51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E726F548-F1E4-41DB-97D7-85A5D307A51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E726F548-F1E4-41DB-97D7-85A5D307A51E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {957F4B96-0988-4DF3-9F40-49EB7C1DE92F}
+	EndGlobalSection
+EndGlobal
